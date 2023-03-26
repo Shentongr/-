@@ -15,4 +15,8 @@ def intro_page():
 def profile():
     return "<p>name: Xu Cai </p><p>Date: 3, 18, 2023</p>"
 if __name__=='__main__':
+<<<<<<< HEAD
     app.run(debug=True,port=50)
+=======
+    app.run(debug=True,port=5001)
+>>>>>>> 7999cf2a4e005c4f32c489f8264406f096232e75
