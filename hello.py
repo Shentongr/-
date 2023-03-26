@@ -9,7 +9,7 @@ def hello_world():
 
 @app.route("/info")
 def intro_page():
-    return "<h1>Introduction</h1> <p>This is a webpage for practicing usign flask</p>"
+    return "<h1>changind some new stuff</h1> <p>This is a webpage for practicing usign flask</p>"
 
 @app.route("/profile")
 def profile():
